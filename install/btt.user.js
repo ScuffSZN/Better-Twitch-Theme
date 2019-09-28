@@ -18,7 +18,7 @@
             addStyleString(xhr.responseText);
         }
     }
-    xhr.open('GET', 'https://scuffed.dev/assets/theme.css', true);
+    xhr.open('GET', 'https://scuffed.dev/Better-Twitch-Theme/assets/theme.css', true);
     xhr.send(null);
 })();
 
