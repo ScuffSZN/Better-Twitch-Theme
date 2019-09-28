@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+:root {
+    --color-background-top-nav: #692db7;
+    --custon-color-background:#34314f
+}
+
+body {
+    background-color:#171717!important;
+    /*font-family: 'Montserrat', sans-serif;*/
+}
+
+.tw-font-size-4 {
+    font-size: 1.5rem!important;
+    font-weight: 500;
+}
+
+h2.tw-font-size-4.tw-line-height-body {
+    font-size: 1.8em!important;
+}
+
+.tw-justify-content-start {
+    font-size: 1.4rem!important;
+}
+
+.tw-c-background-base,.tw-c-background-accent-alt-2 {
+    background-color: #692db7!important;
+}
+
+.tw-animation.tw-animation--animate.tw-animation--delay-medium.tw-animation--duration-medium.tw-animation--fill-mode-both.tw-animation--slide-in-top.tw-animation--timing-ease {
+    margin-bottom: 2em;
+}
+
+.tw-align-items-center.tw-border-top-left-radius-medium.tw-border-top-right-radius-medium.tw-c-background-accent-alt-2.tw-c-text-overlay.tw-flex.tw-pd-x-1.tw-pd-y-05.video-player-hosting-ui__header,.tw-block.tw-border-bottom-left-radius-medium.tw-border-bottom-right-radius-medium.tw-c-background-accent-alt-2.tw-pd-1.video-player-hosting-ui__footer {
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+.tw-root--theme-dark .channel-root__right-column,.tw-root--theme-dark .chat-room,.tw-root--theme-dark .side-nav__overlay-wrapper,.tw-border-t {
+    background-color: #1a1a1a;
+}
+
+.tw-root--theme-dark .side-nav__overlay-wrapper,.tw-border-t {
+	border-right:var(--border-width-default) solid var(--color-border-base)!important
+}
+
+.h2.tw-font-size-4.tw-line-height-body {
+    font-size: 1.6rem!important;
+}
+
+
+.tw-border-t.tw-mg-t-1.tw-mg-x-05.tw-pd-b-1 {
+    border: none!important;
+    border-top: solid rgba(26, 26, 26, 0.16) 2px !important;
+    background-color: rgba(26, 26, 26, 0.0);
+
+}
+
+.tw-pd-b-2 {
+    padding-bottom: 0!important;
+}
